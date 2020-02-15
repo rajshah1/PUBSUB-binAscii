@@ -1,0 +1,4 @@
+UNIX has a philosophy, it has 25 years of history behind it, and most importantly, it has a clean core. It
+strives for something - some kind of beauty. And that&#39;s really what struck me as a programmer. Operating
+systems that normal home users are used to, such as DOS and Windows, didn&#39;t have any way of life.
+Nobody tried to design Windows - it just grew in random directions without any kind of thought behind it.
